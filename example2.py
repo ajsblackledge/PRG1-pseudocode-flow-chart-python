@@ -9,7 +9,7 @@ Traces to check:
 FREE_DELIVERY_THRESHOLD = 40.00
 STANDARD_DELIVERY_CHARGE = 4.99
 HEAVY_DELIVERY_CHARGE = 9.99
-HEAVY_WEIGHT_LIMIT = 10.0
+HEAVY_WEIGHT_LIMIT = 15.0
  
 order_total = float(input("Order total in £: "))
 order_weight_kg = float(input("Order weight in kg: "))
